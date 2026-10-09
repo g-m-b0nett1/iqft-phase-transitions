@@ -1,0 +1,10 @@
+Ncut=16: 213 states (exact count), V symmetric: True
+  r_c = 2.3778242
+  r=10: 2 pi e0/r^2 = -0.061722; gaps/m1 = 0.9785 1.3336 1.9318
+  r=20: 2 pi e0/r^2 = -0.061701; gaps/m1 = 1.0001 1.6172 1.9734
+  [40 s]
+Ncut=24: 1330 states (exact count), V symmetric: True
+  r_c = 2.3778243
+  r=10: 2 pi e0/r^2 = -0.061726; gaps/m1 = 0.9785 1.3336 1.9318
+  r=20: 2 pi e0/r^2 = -0.061716; gaps/m1 = 1.0000 1.6170 1.9733
+  [253 s]

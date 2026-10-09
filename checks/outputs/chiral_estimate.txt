@@ -1,0 +1,5 @@
+nmax=12 q=0.8: main-code basis 1.1328 ((62, 50)), exact basis 1.1328 ((70, 55))
+nmax=12 q=0.9: main-code basis 1.2670 ((62, 50)), exact basis 1.2670 ((70, 55))
+nmax=14 q=0.9: main-code basis 1.2679 ((76, 62)), exact basis 1.2681 ((110, 86))
+nmax=14 q=0.95: main-code basis 1.3292 ((76, 62)), exact basis 1.3298 ((110, 86))
+nmax=14 q=0.98: main-code basis 1.3381 ((76, 62)), exact basis 1.3392 ((110, 86))

@@ -1,0 +1,14 @@
+m56 (1, 1) first level with missing states: None  kept/char at top level: 34 34
+m56 (2, 1) first level with missing states: 9  kept/char at top level: 6 58
+m56 (3, 1) first level with missing states: 9  kept/char at top level: 6 74
+m56 (4, 1) first level with missing states: 9  kept/char at top level: 5 66
+tim (1, 1) first level with missing states: None  kept/char at top level: 32 32
+tim (1, 2) first level with missing states: 10  kept/char at top level: 6 51
+tim (1, 3) first level with missing states: 9  kept/char at top level: 6 58
+tim (1, 4) first level with missing states: 9  kept/char at top level: 5 44
+tcp (1, 1) first level with missing states: None  kept/char at top level: 34 34
+tcp (1, 2) first level with missing states: 10  kept/char at top level: 6 58
+tcp (1, 3) first level with missing states: 9  kept/char at top level: 6 79
+tcp (1, 4) first level with missing states: 8  kept/char at top level: 6 93
+tcp (1, 5) first level with missing states: 8  kept/char at top level: 5 100
+tcp (1, 6) first level with missing states: 8  kept/char at top level: 5 84

@@ -1,0 +1,8 @@
+chiral vertex operators vs exact Ising blocks (levels 0..8): max abs error 4.16e-17
+Ncut=24: 713 states, V symmetric: True
+  r_c = 2.3778243
+  r=10: 2 pi e0/r^2 = -0.061726; gaps/m1 = 0.9785 1.3336 1.9318
+  r=20: 2 pi e0/r^2 = -0.061716; gaps/m1 = 1.0000 1.6170 1.9734
+  r=0.05: (e0+1/24)/(-pi I2 gR^2) = 0.999992
+  r=0.2: (e0+1/24)/(-pi I2 gR^2) = 0.999970
+  [426 s]

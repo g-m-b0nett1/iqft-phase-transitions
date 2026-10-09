@@ -1,0 +1,5 @@
+Ncut=32: 6654 states (exact count); built in 279 s
+  r=2.3778: two lowest levels 0.02104512-0.00000000j, 0.02181988+0.00000000j  -> real
+  r=2.37785: two lowest levels 0.02143255-0.00039783j, 0.02143255+0.00039783j  -> complex pair
+  r=10: 2 pi e0/r^2 = -0.061727; gaps/m1 = 0.9785 1.3336 1.9318
+  r=20: 2 pi e0/r^2 = -0.061721; gaps/m1 = 1.0000 1.6170 1.9733
